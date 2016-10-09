@@ -1,2 +1,2 @@
 # windbot
-uptade 10.98
+tibia uptade 10.98
